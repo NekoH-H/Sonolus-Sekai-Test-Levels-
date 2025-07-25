@@ -1,0 +1,16 @@
+{
+  "title": {
+    "en": "Nivel de prueba"
+  },
+  "artist": "Unknown",
+  "author": "Neko",
+  "description": {
+    "en": "Primer nivel de prueba para el servidor de Neko"
+  },
+  "version": 1,
+  "engine": "default",
+  "rating": 5,
+  "thumbnail": "preview.png",
+  "bgm": "bgm.mp3",
+  "data": "data.json"
+}
